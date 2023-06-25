@@ -14,6 +14,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     path('', include('users.urls')),
+    path('', include('pages.urls')),
 
     path('login/', CustomLoginView.as_view(redirect_authenticated_user=True, template_name='users/login.html',
                                            authentication_form=LoginForm), name='login'),
@@ -34,4 +35,9 @@ urlpatterns = [
 
     re_path(r'^oauth/', include('social_django.urls', namespace='social')),
 
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+] 
+
+
+if settings.DEBUG:
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
