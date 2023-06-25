@@ -1,0 +1,1596 @@
+Uri: http://bigdata-edu.kz/
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\index.htm
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/1.mp4
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\1.mp4
+Content Type: video/mp4
+
+Uri: http://bigdata-edu.kz/1/css/custom.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\custom.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/1/css/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/1/css/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/1/css/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://bigdata-edu.kz/1/css/style.min.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\style.min.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/1/css/styles-merged.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\css\styles-merged.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/1/fonts/icomoon/icomoon.eot?1z9v6x
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/1/fonts/icomoon/icomoon.svg?1z9v6x
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/1/fonts/icomoon/icomoon.ttf?1z9v6x
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\fonts\icomoon\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/1/fonts/icomoon/icomoon.woff?1z9v6x
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\fonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/1/gf.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\gf.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/img/preloader.gif
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\img\preloader.gif
+Content Type: image/gif
+
+Uri: http://bigdata-edu.kz/1/js/custom.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\js\custom.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/1/js/main.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\js\main.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/1/js/scripts.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/1/okulyk.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\okulyk.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/p2.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\p2.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/p2.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\p2.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/p2.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\p2.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/p2.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\p2.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr10.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr10.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image015.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image015.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image016.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image016.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image017.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image017.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image019.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image019.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image020.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image020.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/image021.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\image021.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr10.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr10.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr10.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr11.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr11.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image098.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image098.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image099.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image099.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image100.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image100.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image101.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image101.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image102.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image102.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image103.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image103.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image104.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image104.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image105.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image105.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image106.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image106.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image107.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image107.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image108.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image108.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image109.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image109.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image110.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image110.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image111.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image111.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image112.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image112.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image113.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image113.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image114.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image114.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image115.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image115.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image116.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image116.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image117.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image117.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image118.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image118.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image119.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image119.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image120.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image120.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image121.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image121.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image122.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image122.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image123.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image123.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image124.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image124.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image125.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image125.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image126.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image126.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image127.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image127.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image128.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image128.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image129.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image129.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image130.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image130.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image131.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image131.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image132.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image132.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image133.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image133.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image134.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image134.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image135.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image135.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image136.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image136.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image137.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image137.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image138.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image138.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image139.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image139.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image140.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image140.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image141.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image141.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image142.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image142.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image143.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image143.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image144.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image144.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image145.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image145.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image146.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image146.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image147.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image147.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image148.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image148.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image149.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image149.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/image150.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\image150.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr11.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr11.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr11.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr12.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr12.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image017.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image017.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image019.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image019.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image020.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image020.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image021.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image021.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image022.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image022.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image023.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image023.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/image024.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\image024.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr12.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr12.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr12.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr13.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr13.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image069.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image069.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image070.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image070.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image071.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image071.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image072.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image072.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image073.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image073.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image074.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image074.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image075.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image075.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image076.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image076.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image077.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image077.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image078.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image078.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image079.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image079.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image080.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image080.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image081.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image081.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image082.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image082.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image083.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image083.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image084.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image084.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image085.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image085.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image086.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image086.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image087.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image087.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image088.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image088.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image089.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image089.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image090.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image090.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image091.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image091.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image092.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image092.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image093.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image093.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image094.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image094.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image095.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image095.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image096.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image096.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image097.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image097.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image098.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image098.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image099.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image099.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image100.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image100.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image101.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image101.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image102.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image102.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image103.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image103.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image104.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image104.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image105.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image105.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/image106.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\image106.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr13.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr13.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr13.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr14.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr14.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr14.files/image001.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\image001.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr14.files/image010.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\image010.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr14.files/image011.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\image011.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr14.files/image012.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\image012.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr14.files/image013.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\image013.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr14.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr14.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr14.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr15.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr15.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr15.files/image005.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.files\image005.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr15.files/image006.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.files\image006.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr15.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr15.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr15.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr3.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr3.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image017.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image017.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image019.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image019.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image020.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image020.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image021.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image021.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image022.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image022.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image023.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image023.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/image024.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\image024.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr3.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr3.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr3.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr4.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr4.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr4.files/image009.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\image009.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr4.files/image010.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\image010.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr4.files/image011.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\image011.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr4.files/image012.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\image012.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr4.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr4.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr4.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr5.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr5.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image013.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image013.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image014.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image014.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image015.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image015.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image016.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image016.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image017.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image017.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr5.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr5.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr5.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr6.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr6.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image019.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image019.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image020.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image020.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image021.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image021.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image022.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image022.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image023.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image023.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image024.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image024.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image025.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image025.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image026.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image026.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image027.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image027.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image028.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image028.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image029.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image029.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/image030.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\image030.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr6.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr6.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr6.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr7.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr7.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image013.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image013.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image014.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image014.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image015.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image015.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image016.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image016.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image017.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image017.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr7.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr7.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr7.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr8.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr8.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr8.files/image005.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.files\image005.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr8.files/image006.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.files\image006.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr8.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr8.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr8.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pr9.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr9.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/1/pr9.files/image007.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\image007.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr9.files/image008.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\image008.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr9.files/image009.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\image009.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/1/pr9.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/1/pr9.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pr9.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/pract.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\pract.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/1/video.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\1\video.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/10.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/10.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/10.files/image001.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\image001.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/10.files/image003.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\image003.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/10.files/image004.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\image004.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/10.files/image005.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\image005.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/10.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/10.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\10.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/11.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\11.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/11.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\11.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/11.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\11.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/11.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\11.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/12.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\12.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/12.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\12.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/12.files/image002.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\12.files\image002.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/12.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\12.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/12.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\12.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/13.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/13.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/13.files/image002.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image002.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/image003.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image003.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image005.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image005.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/image006.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image006.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image007.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image007.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image009.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image009.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/image010.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image010.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image011.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image011.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image013.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image013.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/image014.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image014.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/13.files/image016.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image016.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/image018.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\image018.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/13.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/13.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\13.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/14.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/14.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/14.files/image002.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.files\image002.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/14.files/image004.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.files\image004.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/14.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/14.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\14.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/15.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/15.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/15.files/image002.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\image002.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/15.files/image004.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\image004.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/15.files/image006.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\image006.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/15.files/image008.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\image008.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/15.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/15.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\15.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/2.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\2.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/2.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\2.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/2.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\2.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/2.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\2.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/3.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\3.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/3.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\3.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/3.files/image002.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\3.files\image002.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/3.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\3.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/3.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\3.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/4.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\4.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/4.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\4.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/4.files/image002.jpg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\4.files\image002.jpg
+Content Type: image/jpeg
+
+Uri: http://bigdata-edu.kz/4.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\4.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/4.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\4.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/5.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/5.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/5.files/image002.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.files\image002.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/5.files/image004.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.files\image004.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/5.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/5.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\5.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/6.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\6.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/6.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\6.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/6.files/image001.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\6.files\image001.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/6.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\6.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/6.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\6.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/7.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\7.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/7.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\7.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/7.files/image002.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\7.files\image002.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/7.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\7.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/7.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\7.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/8.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\8.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/8.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\8.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/8.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\8.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/8.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\8.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/9.files/colorschememapping.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\9.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/9.files/filelist.xml
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\9.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://bigdata-edu.kz/9.files/themedata.thmx
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\9.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://bigdata-edu.kz/9.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\9.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/about.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\about.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/css/all.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\all.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/animate.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\animate.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/flaticon.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\flaticon.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/gijgo.min.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\gijgo.min.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/nice-select.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\nice-select.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/slick.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\slick.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/style.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\style.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css\themify-icons.css
+Content Type: text/css
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: http://bigdata-edu.kz/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\themify.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\fonts\themify.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/frame_left.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\frame_left.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/frame_right.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\frame_right.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/frame_top.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\frame_top.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/img/about_bg.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\about_bg.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/About_me.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\About_me.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/banner_bg.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\banner_bg.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/banner_bg_1.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\banner_bg_1.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/breadcrumb.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\breadcrumb.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/disabled-check.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\disabled-check.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/disabled-radio.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\disabled-radio.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/primary-check.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\primary-check.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/primary-radio.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\primary-radio.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/success-check.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\success-check.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/elements/success-radio.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\elements\success-radio.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/Featured.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\Featured.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/Portfolio.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\Portfolio.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/single_feature_bg.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\single_feature_bg.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/Skills.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\Skills.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/skil_bg.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\skil_bg.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/img/testimonial.png
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\img\testimonial.png
+Content Type: image/png
+
+Uri: http://bigdata-edu.kz/index.html
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\index.html
+Content Type: text/html
+
+Uri: http://bigdata-edu.kz/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/custom.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\custom.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/gijgo.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\gijgo.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/jquery-1.12.1.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\jquery-1.12.1.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/masonry.pkgd.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\masonry.pkgd.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/popper.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/slick.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://bigdata-edu.kz/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css?family=Anton|Poppins:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/anton/v23/1Ptgg87LROyAm3Kz-Co.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\anton\v23\1Ptgg87LROyAm3Kz-Co.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\bigdata-edu.kz\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
