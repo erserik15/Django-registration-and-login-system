@@ -16,9 +16,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
-
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+# Build paths inside the project like this: BASE_DIR / 'subdir'.
+
+DOMAIN_PATH = 'sys-monitoring.kz'
 
 
 # Quick-start development settings - unsuitable for production
@@ -87,7 +88,7 @@ WSGI_APPLICATION = 'user_management.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': str(BASE_DIR / 'db.sqlite3'),
     }
 }
 
@@ -144,9 +145,15 @@ STATICFILES_DIRS = [
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
+STATIC_URL = '/static/'
+MEDIA_URL = '/media/'
+
+STATIC_ROOT =  f'/home/{DOMAIN_PATH}/public_html/static'
+MEDIA_ROOT = f'/home/{DOMAIN_PATH}/public_html/media'
 
 LOGIN_REDIRECT_URL = '/'
 LOGIN_URL = 'login'
+
 
 
 # social auth configs for github
