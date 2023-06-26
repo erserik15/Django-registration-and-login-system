@@ -19,7 +19,7 @@ def practice_detail(request, practice_name = ''):
     path = os.path.join(settings.BASE_DIR, 'pages/templates/pages/practice_list', practice_name)
     if not os.path.exists(path):
         return HttpResponseNotFound("Not found: "+ practice_name + " with path: "+path)
-    with open(path, 'r') as file:
+    with open(path, 'r', encoding='utf-8') as file:
         html_content = file.read()
 
     # Return the HTML response with UTF-8 encoding
